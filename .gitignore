@@ -1,5 +1,6 @@
 *
 !.gitignore
+!instance.cfg
 
 # --- base minecraft folder
 !.minecraft
