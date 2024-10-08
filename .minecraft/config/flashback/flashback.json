@@ -1,0 +1,23 @@
+{
+  "automaticallyStart": false,
+  "automaticallyFinish": true,
+  "showRecordingToasts": true,
+  "quicksave": false,
+  "hidePauseMenuControls": false,
+  "markDimensionChanges": true,
+  "recordHotbar": true,
+  "localPlayerUpdatesPerSecond": 40,
+  "recordVoiceChat": false,
+  "openedWindows": [],
+  "nextUnsupportedModLoaderWarning": 0,
+  "flightCameraDirection": false,
+  "flightMomentum": 1.0,
+  "flightLockX": false,
+  "flightLockY": false,
+  "flightLockZ": false,
+  "flightLockYaw": false,
+  "flightLockPitch": false,
+  "recentReplays": [],
+  "defaultExportFilename": "%date%T%time%",
+  "defaultInterpolationType": "SMOOTH"
+}

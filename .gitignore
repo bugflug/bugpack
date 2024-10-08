@@ -1,0 +1,106 @@
+*
+!.gitignore
+
+# --- base minecraft folder
+!.minecraft
+*.minecraft/*
+!.minecraft/options.txt
+!.minecraft/icon.png
+
+# --- configuration files
+!.minecraft/config
+*.minecraft/config/*
+
+# camera utils
+!.minecraft/config/camerautils
+!.minecraft/config/camerautils/*
+# flashback
+!.minecraft/config/flashback
+!.minecraft/config/flashback/*
+# fog
+!.minecraft/config/fog
+!.minecraft/config/fog/*
+# sounds
+!.minecraft/config/sounds
+!.minecraft/config/sounds/*
+# appleskin
+!.minecraft/config/appleskin.json5
+# betterclouds
+!.minecraft/config/betterclouds-v1.json
+# bobby
+!.minecraft/config/bobby.conf
+# continuity
+!.minecraft/config/continuity.json
+# dynamic fps
+!.minecraft/config/dynamic_fps.json
+# elytra physics
+!.minecraft/config.elytra-physics-config.json
+# enhanced block entities
+!.minecraft/config/enhanced_bes.properties
+# entity model features
+!.minecraft/config/entity_model_features.json
+# entity texture features
+!.minecraft/config/entity_texture_features.json
+# entity culling
+!.minecraft/config/entityculling.json
+# falling leaves
+!.minecraft/config/fallingleaves.json
+# immediately fast
+!.minecraft/config/immediatelyfast.json
+# litematica
+!.minecraft/config/litematica.json
+# minihud
+!.minecraft/config/minihud.json
+# mod menu
+!.minecraft/config/modmenu.json
+# more culling
+!.minecraft/config/moreculling.toml
+# not enough animations
+!.minecraft/config/notenoughanimations.json
+# ortho camera
+!.minecraft/config/orthocamera.json
+# particle core
+!.minecraft/config/particle_core_config.toml
+!.minecraft/config/particle_core_disabled_optimizations.json
+# particle rain
+!.minecraft/config/particlerain.json5
+# sodium extra
+!.minecraft/config/sodium-extra.properties
+# sodium
+!.minecraft/config/sodium-options.json
+# sodium shadowy path blocks
+!.minecraft/config/sodium-shadowy-path-blocks-options.json
+# status effect bars
+!.minecraft/config/status-effect-bars.json
+# tiny item animations
+!.minecraft/config/tia.json
+# tweakeroo
+!.minecraft/config/tweakeroo.json
+# visuality
+!.minecraft/config/visuality.json
+# waves
+!.minecraft/config/wakes.json
+# xaeromap entities
+!.minecraft/config/xaerominimap_entities.json
+# xaero minimap
+!.minecraft/config/xaerominimap-common.txt
+!.minecraft/config/xaerominimap.txt
+# xaero plus
+!.minecraft/config/xaeroplus.txt
+# xaero worldmap
+!.minecraft/config/xaeroworldmap-common.txt
+!.minecraft/config/xaeroworldmap.txt
+
+# --- mod list
+!.minecraft/mods
+.minecraft/mods/*
+!.minecraft/mods/.index
+!.minecraft/mods/.index/*
+
+# --- resource packs
+!.minecraft/resourcepacks
+!.minecraft/resourcepacks/*
+
+# --- shaderpacks
+!.minecraft/shaderpacks
+!.minecraft/shaderpacks/*

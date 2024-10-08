@@ -1,0 +1,13 @@
+filename = 'Axiom-4.1.1-for-MC1.21.jar'
+name = 'Axiom'
+side = 'both'
+
+[download]
+hash = 'bdde91554e01acb4a7bd8b29d99d8d088ce8f92a6839c58ee9108ab1418ac56cff71b5c9831fe7eb9264e780b0b30560a3108018464a7141efdbbbf7345f8079'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N6n5dqoA/versions/G5Wd4EHm/Axiom-4.1.1-for-MC1.21.jar'
+
+[update.modrinth]
+mod-id = 'N6n5dqoA'
+version = 'G5Wd4EHm'
